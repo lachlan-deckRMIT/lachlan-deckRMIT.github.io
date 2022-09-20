@@ -1,14 +1,16 @@
 body{
 
 font-family: arial;
-margin-left: 250px;
-margin-right: 250px;
-border:1px solid;
+
 
 background-image: url('images/blktle.png');
 }
 #main{
     padding: 30px;
-      background-color: rgb(255, 250, 242);
+    background-color: rgb(255, 250, 242);
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+
 
 }
